@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon script.ts"
+  },
   "devDependencies": {
     "@types/node": "^18.11.17",
     "nodemon": "^2.0.20",
